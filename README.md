@@ -1,4 +1,4 @@
-# Български Сметачи ( Bulgarian Computers )
+# Български сметачи ( Bulgarian Computers )
 
 История, материали, програми ...
 
